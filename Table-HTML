@@ -1,25 +1,30 @@
+<!DOCTYPE html>
+<html>
+
 <table>
-<thead>
-<tr>
-<th scope=“col”>Name</th>
-<th scope=“col”>Email</th>
-<th scope=“col”>Job role</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<th scope=“row”>Nick</th>
-<td>nick@email.com</td>
-<td>Web Designer</td>
-</tr>
-<tr>
-th scope=“row”>Andrew</th>
-<td>andrew@email.com</td>
-<td>Front-End Developer</td>
-</tr>
-<tfoot>
-<tr>
-<td>Data is updated every 15 minutes</td>
-</tr>
-</tfoot>
+  <thead>
+    <tr>
+    <th scope=“col”>Name</th>
+    <th scope=“col”>Email</th>
+    <th scope=“col”>Job role</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+    <th scope=“row”>Nick</th>
+      <td>nick@email.com</td>
+      <td>Web Designer</td>
+    </tr>
+    <tr>
+    <th scope=“row”>Andrew</th>
+     <td>andrew@email.com</td>
+     <td>Front-End Developer</td>
+    </tr>
+  <tfoot>
+    <tr>
+     <td>Data is updated every 15 minutes</td>
+    </tr>
+  </tfoot>
 </table>
+
+</html>
